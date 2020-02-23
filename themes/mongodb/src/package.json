@@ -10,7 +10,7 @@
     "postcss-nested": "^3.0.0",
     "postcss-preset-env": "^5.3.0",
     "postcss-responsive-type": "^1.0.0",
-    "preact": "^8.3.1",
+    "preact": "^8.5.3",
     "prop-types": "^15.6.2",
     "rollup": "^0.64.1",
     "rollup-plugin-babel": "^3.0.7",
