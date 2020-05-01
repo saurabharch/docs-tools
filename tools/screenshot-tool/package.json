@@ -2,7 +2,9 @@
   "name": "docs-screenshot-tool-atlas",
   "version": "1.0.0",
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Jeff",
   "keywords": [
@@ -18,9 +20,11 @@
     "properties-reader": "*",
     "readline-sync": "^1.*",
     "resemblejs": "^2.*",
-    "sharp": "*"
+    "sharp": "*",
+    "snyk": "^1.316.1"
   },
   "engines": {
     "node": ">=7.6.0"
-  }
+  },
+  "snyk": true
 }
