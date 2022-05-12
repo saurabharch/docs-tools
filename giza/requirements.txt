@@ -28,7 +28,7 @@ requests-toolbelt==0.8.0
 rstcloth==0.2.6
 six==1.10.0
 snowballstemmer==1.2.1
-Sphinx==1.6.3
+Sphinx==3.0.4
 sphinx-intl==0.9.9
 sphinxcontrib-httpdomain==1.5.0
 sphinxcontrib-websupport==1.0.1
