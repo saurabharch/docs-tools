@@ -19,7 +19,7 @@ onetimepass==1.0.1
 ordereddict==1.1
 pbr==3.1.1
 polib==1.0.8
-Pygments==2.2.0
+Pygments==2.7.4
 pytz==2017.2
 PyYAML==3.12
 requests==2.18.4
