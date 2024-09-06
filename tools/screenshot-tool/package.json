@@ -15,10 +15,10 @@
     "fs-extra": "^7.*",
     "nightmare": "^3.0.1",
     "nightmare-screenshot-selector": "^1.*",
-    "properties-reader": "*",
+    "properties-reader": "2.2.0",
     "readline-sync": "^1.*",
     "resemblejs": "^2.*",
-    "sharp": "*"
+    "sharp": "0.33.0"
   },
   "engines": {
     "node": ">=7.6.0"
